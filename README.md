@@ -7,7 +7,7 @@ Cyber Kill Chain analysis of Twilio phishing incident  [MSC Assignment]
 This project analyses the Twilio social engineering breach using the Lockheed Martin **Cyber Kill Chain** framework to understand how attackers exploited human behaviour and to recommend practical resilience strategies.
 
 ## Key Focus Areas
-- Applied the Cyber Kill Chain to map each phase of the attack — reconnaissance through impact.  
+- Applied the Cyber Kill Chain to map each phase of the attack and reconnaissance through impact.  
 - Examined phishing and impersonation tactics used to deceive employees.  
 - Analysed psychological and emotional manipulation techniques in successful campaigns.  
 - Evaluated impact on customers, trust, and organisational reputation.  
