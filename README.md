@@ -1,6 +1,6 @@
 # Human-Factors-Social-Engineering
 Cyber Kill Chain analysis of Twilio phishing incident  [MSC Assignment]
-**Type:** Academic Research Assignment (MSc Cybersecurity & Human Factors — Bournemouth University)  
+**Type:** Academic Research Assignment (MSc Cybersecurity and Human Factors Bournemouth University)  
 **Author:** Stanley Obiekwe
 
 ## Objective
